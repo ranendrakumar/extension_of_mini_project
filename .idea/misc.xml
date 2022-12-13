@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_attach_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_back_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_category.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_delete_t.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_delete_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_down_gray.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_download_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_email_gray.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_lock_gray.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_logout_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_more_black.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_more_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_open_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_pdf_gray.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_pdf_white.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_person_gray.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_search_gray.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/search_background.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/tab_background_selected.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable-v24/tab_background_unselected.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/button_primary.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/button_secondary.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/edit_text_background.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.152" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_edit_white.xml" value="0.152" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_email.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_emails.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_lab.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_lab_name.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_lock.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_locks.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_person.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_persons.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/ic_regulation.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/logsign.xml" value="0.1205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/progress_bar.xml" value="0.205" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/drawable/secondary_background_file.xml" value="0.164" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_category_add.xml" value="0.1" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.33" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_faculty.xml" value="0.5" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_student.xml" value="0.33" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_lab_edit.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_add.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_detailed.xml" value="0.5" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_edit.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.1" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_list_faculty_and_student.xml" value="0.1" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_view.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_register.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/dialogplus.xml" value="0.25" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/row_category_admin.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/row_category_faculty_and_student.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/row_pdf_admin.xml" value="0.22447916666666667" />
+        <entry key="..\:/Test Projects/crrithandbook/app/src/main/res/layout/row_pdf_faculty_and_student.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_category.xml" value="0.1745" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_delete_t.xml" value="0.121" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_delete_white.xml" value="0.112" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_down_gray.xml" value="0.1435" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_more_white.xml" value="0.15" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/ic_pdf_white.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable-v24/search_background.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable/ic_down.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable/ic_lab.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable/ic_lab_name.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable/ic_regulation.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/drawable/logsign.xml" value="0.121" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_category_add.xml" value="0.25" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.30428769017980634" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_faculty.xml" value="0.30428769017980634" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_student.xml" value="0.225031605562579" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_dashboard_user.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_add.xml" value="0.1921182266009852" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_detailed.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_edit.xml" value="0.25" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_list_faculty.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_list_faculty_and_student.xml" value="0.25" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_pdf_view.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/fragment_lab_users.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_category.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_category_admin.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_category_faculty_and_student.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_categoryfaculty.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_pdf_admin.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_pdf_faculty.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_pdf_faculty_and_student.xml" value="0.33" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/Test Projects/crrithandbook/app/src/main/res/layout/row_pdf_user.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/crrithandbook/app/src/main/res/drawable/logsign.xml" value="0.1" />
+        <entry key="..\:/Users/Ranendra Kumar/Desktop/crrithandbook/app/src/main/res/layout/activity_login.xml" value="0.13333333333333333" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable-v24/box.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable-v24/button.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable-v24/ic_delete_white.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable-v24/ic_pdf_gray.xml" value="0.103" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable-v24/ic_pdf_white.xml" value="0.103" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable-v24/logsign.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/drawable/logsign.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_category_add.xml" value="0.21041666666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.25" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_dashboard_faculty.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_dashboard_user.xml" value="0.21" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_pdf_add.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_pdf_detailed.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_pdf_edit.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_pdf_list_faculty.xml" value="0.21041666666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_pdf_view.xml" value="0.21041666666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/activity_splash_screen.xml" value="0.19704433497536947" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/fragment_lab_users.xml" value="0.22083333333333333" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/row_category.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/row_categoryfaculty.xml" value="0.21296296296296297" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/row_pdf_admin.xml" value="0.21388888888888888" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/row_pdf_faculty.xml" value="0.22447916666666667" />
+        <entry key="..\:/crrithandbook/app/src/main/res/layout/row_pdf_user.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

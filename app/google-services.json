@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038225009029",
+    "project_id": "crr-it-hand-book-ae4c3",
+    "storage_bucket": "crr-it-hand-book-ae4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038225009029:android:4f3153ac0cca6734283cec",
+        "android_client_info": {
+          "package_name": "com.sircrrcoeit.crrithandbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038225009029-cljo1o1veu7ea82nt5u28mlfamrra679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZ4PvxBHzhpLgffn-0gst5EPH8x_kc84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038225009029-cljo1o1veu7ea82nt5u28mlfamrra679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
